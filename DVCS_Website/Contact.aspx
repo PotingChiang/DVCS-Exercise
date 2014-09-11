@@ -1,17 +1,17 @@
-﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeFile="Contact.aspx.cs" Inherits="Contact" %>
+﻿<%@ Page Title="My Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeFile="Contact.aspx.cs" Inherits="Contact" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Your contact page.</h3>
+    <h3>Chiang Poting</h3>
     <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
+        11825 103ST NW<br />
+        Edmonton, AB, T5G 2J3<br />
         <abbr title="Phone">P:</abbr>
-        425.555.0100
+        780.716.3985
     </address>
 
     <address>
-        <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+        <strong>E-mail:</strong>   <a href="mailto:poting.chiang@gmail.com">poting.chiang@gmail.com</a><br />
+        <strong>E-mail(B):</strong> <a href="mailto:m9320015@cloud.isu.edu.tw">m9320015@cloud.isu.edu.tw</a>
     </address>
 </asp:Content>
